@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Country Application</string>
+    <string-array name="continent">
+        <item>Amerique du Nord</item>
+        <item>Amerique du Sud</item>
+        <item>Afrique</item>
+        <item>Europe</item>
+        <item>Asie</item>
+        <item>Oceanie</item>
+    </string-array>
+</resources>
